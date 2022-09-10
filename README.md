@@ -1,6 +1,8 @@
 # javaScript
 Fundamentos do Desenvolvimento Web
 
-Exercícios diversos 
 
 Aula - Variáveis
+Operadores e Lógica de Programação
+Strings e Arrays
+Funções
